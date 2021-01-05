@@ -1,3 +1,6 @@
 [submodule "navbar"]
 	path = navbar
 	url = https://github.com/Capstone4/navbar
+[submodule "shifts"]
+	path = shifts
+	url = https://github.com/Capstone4/Shifts.git
