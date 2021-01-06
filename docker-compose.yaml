@@ -1,0 +1,7 @@
+version: "3.2"
+
+services:
+  single_spa_root:
+    build: ./scheduler-db
+    ports:
+      - 5432:5432
